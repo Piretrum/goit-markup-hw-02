@@ -27,7 +27,8 @@ body {
   list-style-type: none;
 }
 
-.subtitle {
+.subtitle,
+.prtf-subtitle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
